@@ -8,4 +8,8 @@ The folder "BubbleTest" contains a small Maven project.
 
 :) :3 Programming is fun :) :3
 
-I AM ALIVE
+I'm dead...
+
+I'm... alive?!
+
+I AM ALIVE !!!!!!
